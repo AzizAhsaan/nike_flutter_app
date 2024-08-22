@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103479371252",
+    "project_id": "social-media-app-896fd",
+    "storage_bucket": "social-media-app-896fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103479371252:android:c3cdfdc331748821d0c5a1",
+        "android_client_info": {
+          "package_name": "com.example.nike_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQpp3rwaE6lcOO7pGnMhMJ1_TQPr11zNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103479371252:android:05f7894e31e1c7fbd0c5a1",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQpp3rwaE6lcOO7pGnMhMJ1_TQPr11zNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
